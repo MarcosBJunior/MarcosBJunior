@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcosbjunior&label=Profile%20views&color=000000&style=plastic" alt="marcosbjunior" /> </p>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/MarcosBJunior?tab=repositories](https://github.com/MarcosBJunior?tab=repositories)
-
-- 📫 How to reach me: **marcosborgesjr624@gmail.com**
-
-- 🔭 I’m currently working on **React** 
+<p align='center'>
+<a href="https://https://www.linkedin.com/in/marcos-borges-3961731b1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 
 

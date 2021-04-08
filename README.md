@@ -13,6 +13,11 @@
   
 </p>
 
+<p align='center'>
+    
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosBJunior&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3> <br/>
@@ -23,9 +28,8 @@
 
  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbjunior&" alt="marcosbjunior" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p> <br/>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbjunior&show_icons=true&locale=en&layout=compact" alt="marcosbjunior" /></p>
 

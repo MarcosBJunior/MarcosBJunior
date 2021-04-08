@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **React** 
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/..https://www.linkedin.com/in/marcos-borges-3961731b1/detail/background-image/)
-<br/>
 
 
 <h3 align="center">Languages and Tools:</h3> <br/>
@@ -24,14 +22,10 @@
 
  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbjunior&" alt="marcosbjunior" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbjunior&" alt="marcosbjunior" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p> <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbjunior&show_icons=true&locale=en&layout=compact" alt="marcosbjunior" /></p>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosbjunior" alt="marcosbjunior" /></a> </p>
 
  
 

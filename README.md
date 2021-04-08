@@ -6,9 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcosbjunior&label=Profile%20views&color=000000&style=plastic" alt="marcosbjunior" /> </p>
 
 <p align='center'>
-<a href="https://https://www.linkedin.com/in/marcos-borges-3961731b1/">
+    
+<a href="https://www.linkedin.com/in/marcos-borges-3961731b1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
 </p>
 
 

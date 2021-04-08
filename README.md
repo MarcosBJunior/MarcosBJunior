@@ -16,9 +16,11 @@
  
  <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p>
+<p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="marcosbjunior" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" alt="marcosbjunior" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p>
+
+
 
 
 

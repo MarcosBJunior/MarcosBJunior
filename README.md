@@ -29,14 +29,14 @@
     
    ## Education
 
-- 📖 **Analise e desenvolvimento de sistema**
-📆 2020 - 2021
+- 📖 **Analise e desenvolvimento de sistema**/
+📆 2020 - 2021/
 📍 **Cruzeiro do Sul University**
 
 ## Experience
 
-- 👨‍💻 **Support analyst**
-📆 2021 - 2021
+- 👨‍💻 **Support analyst**/
+📆 2021 - 2021/
 📍 **Royalle Consultoria LTDA** - São Paulo/Sp, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>

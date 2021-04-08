@@ -1,4 +1,4 @@
-![Captura de tela 2021-04-08 053825](https://user-images.githubusercontent.com/69303138/113995494-af2ee080-982c-11eb-99ae-56c914023564.png)
+  <img align="center" src="https://user-images.githubusercontent.com/69303138/113995494-af2ee080-982c-11eb-99ae-56c914023564.png"/>
 
 
 

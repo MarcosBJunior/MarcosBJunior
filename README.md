@@ -1,20 +1,19 @@
+![1617135532568](https://user-images.githubusercontent.com/69303138/113993237-9b827a80-982a-11eb-8826-4ef12463adda.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Marcos Junior</h1>
 <h2 align="center">Front-End React Developer from Brazil</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcosbjunior&label=Profile%20views&color=000000&style=plastic" alt="marcosbjunior" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MarcosBJunior?tab=repositories](https://github.com/MarcosBJunior?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/MarcosBJunior?tab=repositories](https://github.com/MarcosBJunior?tab=repositories)
 
-- 📫 How to reach me **marcosborgesjr624@gmail.com**
+- 📫 How to reach me: **marcosborgesjr624@gmail.com**
+
+- 🔭 I’m currently working on **React** 
+
 
 <br/>
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://https://github.com/MarcosBJunior) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcos-borges-3961731b1/)](https://https://www.linkedin.com/in/marcos-borges-3961731b1/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunes-santos@hotmail.com)](mailto:nunes-santos@hotmail.com)
-
-
-
-
 
 
 <h3 align="center">Languages and Tools:</h3> <br/>

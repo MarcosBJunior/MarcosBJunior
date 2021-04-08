@@ -26,6 +26,10 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcosbjunior&show_icons=true&locale=en" alt="marcosbjunior" /></p> <br/>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbjunior&show_icons=true&locale=en&layout=compact" alt="marcosbjunior" /></p>
+
+<p align="top"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosbjunior" alt="marcosbjunior" /></a> </p>
+
 
  
 

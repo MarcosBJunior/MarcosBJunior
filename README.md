@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
+  <a href="https://api.whatsapp.com/send?phone=5511932193488&text=Ol%C3%A1%20Gostaria%20de%20conhecer%20melhor%20o%20seu%20trabalho.">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white />
+     </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MarcosBJunior&show_icons=true&count_private=true&theme=dark" width="350"></a></p>

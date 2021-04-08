@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **React** 
 
-
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/..https://www.linkedin.com/in/marcos-borges-3961731b1/detail/background-image/)
 <br/>
 
 

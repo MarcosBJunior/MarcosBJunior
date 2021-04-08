@@ -1,4 +1,5 @@
-![1617135532568](https://user-images.githubusercontent.com/69303138/113993237-9b827a80-982a-11eb-8826-4ef12463adda.jpg)
+![Captura de tela 2021-04-08 053825](https://user-images.githubusercontent.com/69303138/113995494-af2ee080-982c-11eb-99ae-56c914023564.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Marcos Junior</h1>
@@ -28,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbjunior&show_icons=true&locale=en&layout=compact" alt="marcosbjunior" /></p>
 
-<p align="top"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosbjunior" alt="marcosbjunior" /></a> </p>
+
 
 
  
